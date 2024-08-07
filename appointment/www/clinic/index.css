@@ -1,0 +1,54 @@
+body.clinic-page {
+	background: var(--gray-50);
+}
+
+h3.clinic-page {
+	font-size: 1.7rem;
+}
+
+h4.clinic-page {
+	font-size: 1.35rem;
+}
+
+.text-18 {
+	font-size: 18px;
+}
+
+.text-17 {
+	font-size: 17px;
+}
+
+.text-15 {
+	font-size: 15px;
+}
+
+.text-14 {
+	font-size: 14px;
+}
+
+.text-13 {
+	font-size: 13px;
+}
+
+.text-12 {
+	font-size: 12px;
+}
+
+
+.search-box-container {
+	width: 100%;
+}
+
+#search-box {
+	padding-left: 36px;
+	background-color: var(--bg-color);
+}
+
+.search-bar .search-icon {
+	position: absolute;
+	margin-left: 12px;
+	display: flex;
+	align-items: center;
+	height: 100%;
+}
+
